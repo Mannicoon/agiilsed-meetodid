@@ -19,4 +19,4 @@ Marten Saar,
 Mattias Maasik,
 Karl Andreas Mätlik,
 Kevin Zukker,
-Kristjan Lessel,
+Kristjan Lessel
