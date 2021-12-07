@@ -15,8 +15,8 @@ Vehicle Mechanics,
 Why war and shooting happens
 
 # Idea Authors
-Marten Saar
-Mattias Maasik
-Karl Andreas Mätlik
-Kevin Zukker
-Kristjan Lessel
+Marten Saar,
+Mattias Maasik,
+Karl Andreas Mätlik,
+Kevin Zukker,
+Kristjan Lessel,
