@@ -10,7 +10,7 @@ User Interface ( UI ).
 Game Mechanics,
 Weapon Mechanics,
 Vehicle Mechanics,
-[fast boy](https://user-images.githubusercontent.com/93149372/145199905-039239d8-6770-48a6-96c0-ef846a81639e.png)
+![fast boy](https://user-images.githubusercontent.com/93149372/145199905-039239d8-6770-48a6-96c0-ef846a81639e.png)
 
 # Story
 Why war and shooting happens
