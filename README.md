@@ -19,6 +19,7 @@ Weapon Mechanics
 
 **Vehicle Mechanics**,
 
+# Story
 Why war and shooting happens
 
 # Idea Authors
