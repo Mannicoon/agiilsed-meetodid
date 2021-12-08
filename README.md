@@ -1,25 +1,18 @@
 # Online Shooter Game
 
 # Design
-**VR**
-
-**Sci - Fi Planet**
-
-**No player limmits**
-
-**User Interface ( UI )**
-
-**Vehicle Design**
-![fast boy](https://user-images.githubusercontent.com/93149372/145199905-039239d8-6770-48a6-96c0-ef846a81639e.png)
+VR
+Sci - Fi Planet,
+No player limmits,
+User Interface ( UI ).
 
 # Mechanics
-**Game Mechanics**
+Game Mechanics,
+Weapon Mechanics
 
-**Weapon Mechanics**
-
-**Vehicle Mechanics**
-
-
+**Vehicle Mechanics**,
+![fast boy](https://user-images.githubusercontent.com/93149372/145199905-039239d8-6770-48a6-96c0-ef846a81639e.png)
+![space ship](https://user-images.githubusercontent.com/93149372/145200549-310743cd-79aa-467e-b297-806607a85484.png)
 # Story
 Why war and shooting happens
 
